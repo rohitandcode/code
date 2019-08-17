@@ -8,4 +8,4 @@ def my4_remove_duplicates(lst):
     return lst
     
 lst = [1,3,3,0,15,-1,0,1,1]
-my4_remove_duplicates(lst)
+print (my4_remove_duplicates(lst))
